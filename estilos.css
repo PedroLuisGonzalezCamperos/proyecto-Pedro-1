@@ -4,3 +4,16 @@ padding: 0;
 box-sizing: border-box;
 
 }
+
+body {
+
+background-color: aquamarine;
+text-align: center;
+}
+
+h1 { 
+
+color: blueviolet;
+text-align: center;
+
+}
